@@ -1,0 +1,102 @@
+{
+  "notice": "中文内容为依据项目公开简介撰写的初步用途解释；未安装、未验证宣称、未完成安全和商业许可证审核。",
+  "updated_at": "2026-10-13",
+  "projects": {
+    "affaan-m/ECC": {
+      "summary_zh": "面向 AI 编程助手的工作流程与能力优化工具集",
+      "use_case_zh": "帮助 Codex、Claude Code 等按更一致的流程研究、编写与检查代码",
+      "difficulty_zh": "需要开发人员配置",
+      "application_zh": "ONETO / 开发效率",
+      "recommendation": "建议技术评估",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "NousResearch/hermes-agent": {
+      "summary_zh": "可扩展的 AI 助手代理项目",
+      "use_case_zh": "研究自动化助理如何执行持续性的工作任务",
+      "difficulty_zh": "需要开发人员部署",
+      "application_zh": "AI 自动化",
+      "recommendation": "持续观察",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "morluto/rea": {
+      "summary_zh": "利用 AI 辅助分析应用及程序行为的工具",
+      "use_case_zh": "适合研究软件行为和技术实现，不等于可直接合法复制他人产品",
+      "difficulty_zh": "技术门槛较高",
+      "application_zh": "软件研发",
+      "recommendation": "持续观察",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "DietrichGebert/ponytail": {
+      "summary_zh": "面向 AI 编程代理的精简开发辅助工具",
+      "use_case_zh": "探索减少冗余代码、简化开发过程的方法",
+      "difficulty_zh": "需要开发人员配置",
+      "application_zh": "开发效率",
+      "recommendation": "持续观察",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "Graphify-Labs/graphify": {
+      "summary_zh": "把代码和相关资料整理成可查询关系结构的工具",
+      "use_case_zh": "可能帮助理解大型代码库、数据表与配置之间的联系",
+      "difficulty_zh": "需要开发人员测试",
+      "application_zh": "ONETO / 代码审计",
+      "recommendation": "建议技术评估",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "Panniantong/Agent-Reach": {
+      "summary_zh": "为 AI 助手增加多网站搜索和读取能力的工具",
+      "use_case_zh": "研究从多个内容平台收集公开资料的方法，须遵守网站规则",
+      "difficulty_zh": "需要开发人员配置",
+      "application_zh": "市场情报",
+      "recommendation": "建议技术评估",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "puppeteer/puppeteer": {
+      "summary_zh": "通过代码操作浏览器的自动化工具",
+      "use_case_zh": "用于网站自动测试、页面截图和重复操作",
+      "difficulty_zh": "需要开发人员使用",
+      "application_zh": "网页测试",
+      "recommendation": "可研究",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "OpenHands/OpenHands": {
+      "summary_zh": "开源 AI 辅助软件开发平台",
+      "use_case_zh": "探索自动处理编程任务、修改代码与运行测试",
+      "difficulty_zh": "需要部署与模型",
+      "application_zh": "开发效率",
+      "recommendation": "建议技术评估",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "rtk-ai/rtk": {
+      "summary_zh": "面向开发命令输出的精简工具",
+      "use_case_zh": "声称能降低部分 AI 编程交互的输出与 Token 消耗，实际收益需测试",
+      "difficulty_zh": "需要开发人员配置",
+      "application_zh": "开发成本",
+      "recommendation": "可研究",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "tt-a1i/archify": {
+      "summary_zh": "由想法或代码生成架构图的工具",
+      "use_case_zh": "可辅助把系统结构和开发计划变成图表",
+      "difficulty_zh": "需要开发人员配置",
+      "application_zh": "产品规划",
+      "recommendation": "可研究",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "hoppscotch/hoppscotch": {
+      "summary_zh": "开源接口调试与测试工具",
+      "use_case_zh": "用于检查网站和系统之间的 API 是否正常通信",
+      "difficulty_zh": "可使用网页版本；进阶功能需技术人员",
+      "application_zh": "ONETO / 系统测试",
+      "recommendation": "建议技术评估",
+      "review_status": "初步资料解读，待技术核实"
+    },
+    "thedaviddias/Front-End-Checklist": {
+      "summary_zh": "网站前端上线前的检查清单",
+      "use_case_zh": "检查页面性能、可访问性、安全基础和上线细节",
+      "difficulty_zh": "可直接阅读清单",
+      "application_zh": "网页质量",
+      "recommendation": "可直接了解",
+      "review_status": "初步资料解读，待技术核实"
+    }
+  }
+}
