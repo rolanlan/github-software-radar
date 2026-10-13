@@ -1,10 +1,10 @@
-name: Weekly Software Radar
+name: Twice Weekly Software Radar
 
 on:
   workflow_dispatch:
   schedule:
-    # Tuesday 06:00 UTC = 08:00 Africa/Lusaka (UTC+2)
-    - cron: "0 6 * * 2"
+    # Tuesday and Friday at 06:00 UTC = 08:00 Africa/Lusaka (UTC+2)
+    - cron: "0 6 * * 2,5"
 
 permissions:
   contents: write
@@ -30,10 +30,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/latest.md reports/latest.json
+          git add reports/
           if git diff --cached --quiet; then
             echo "No report changes"
           else
-            git commit -m "data: update weekly GitHub software radar"
+            git commit -m "data: archive twice-weekly software radar"
             git push
           fi

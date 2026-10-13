@@ -95,7 +95,24 @@ def main():
         "generated_at": now.isoformat(), "source": "GitHub Search API",
         "partial_errors": errors, "projects": entries
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Saved {len(entries)} projects; {len(errors)} category errors")
+    # Immutable dated snapshots allow returning to prior discoveries after each refresh.
+    archive = ROOT / "reports" / "archive"
+    archive.mkdir(parents=True, exist_ok=True)
+    current_data = json.loads((ROOT / "reports" / "latest.json").read_text(encoding="utf-8"))
+    (archive / f"{date}.json").write_text(json.dumps(current_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (archive / f"{date}.md").write_text((ROOT / "reports" / "latest.md").read_text(encoding="utf-8"), encoding="utf-8")
+    manifest = ROOT / "reports" / "history.json"
+    history = {"dates": []}
+    if manifest.exists():
+        try:
+            history = json.loads(manifest.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            pass
+    dates = set(history.get("dates", []))
+    dates.add(date)
+    history["dates"] = sorted(dates, reverse=True)
+    manifest.write_text(json.dumps(history, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Saved {len(entries)} projects and archived {date}; {len(errors)} category errors")
 
 if __name__ == "__main__":
     main()
