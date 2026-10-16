@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-10-16T10:32:35.630522+00:00",
+  "source": "GitHub Search API",
+  "partial_errors": [],
+  "projects": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "category": "UI 与开发工具",
+      "description_original": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 281586,
+      "updated_at": "2026-10-16T10:30:21Z",
+      "license": "MIT",
+      "homepage": "https://rea.tools",
+      "language": "TypeScript"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "category": "UI 与开发工具",
+      "description_original": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 280810,
+      "updated_at": "2026-10-15T19:17:01Z",
+      "license": "MIT",
+      "homepage": "https://ecc.tools",
+      "language": "JavaScript"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "category": "AI 与自动化",
+      "description_original": "The agent that grows with you",
+      "stars": 254279,
+      "updated_at": "2026-10-16T10:29:47Z",
+      "license": "MIT",
+      "homepage": "https://hermes-agent.nousresearch.com",
+      "language": "Python"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "category": "UI 与开发工具",
+      "description_original": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 164803,
+      "updated_at": "2026-10-16T08:17:57Z",
+      "license": "MIT",
+      "homepage": "https://ponytail.dev",
+      "language": "JavaScript"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "category": "UI 与开发工具",
+      "description_original": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 127066,
+      "updated_at": "2026-10-14T22:17:45Z",
+      "license": "Apache-2.0",
+      "homepage": "https://www.graphify.com",
+      "language": "Python"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "category": "AI 与自动化",
+      "description_original": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 97951,
+      "updated_at": "2026-10-15T11:34:42Z",
+      "license": "MIT",
+      "homepage": "",
+      "language": "Python"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "category": "UI 与开发工具",
+      "description_original": "JavaScript API for Chrome and Firefox",
+      "stars": 95704,
+      "updated_at": "2026-10-16T09:07:04Z",
+      "license": "Apache-2.0",
+      "homepage": "https://pptr.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "category": "UI 与开发工具",
+      "description_original": "🙌 OpenHands: AI-Driven Development",
+      "stars": 91042,
+      "updated_at": "2026-10-16T10:15:21Z",
+      "license": "MIT",
+      "homepage": "https://openhands.dev",
+      "language": "TypeScript"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "category": "UI 与开发工具",
+      "description_original": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "stars": 84270,
+      "updated_at": "2026-10-16T10:09:07Z",
+      "license": "MIT",
+      "homepage": "https://archify.si",
+      "language": "JavaScript"
+    },
+    {
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "category": "UI 与开发工具",
+      "description_original": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 83578,
+      "updated_at": "2026-10-16T07:47:33Z",
+      "license": "Apache-2.0",
+      "homepage": "https://www.rtk-ai.app",
+      "language": "Rust"
+    },
+    {
+      "name": "hoppscotch/hoppscotch",
+      "url": "https://github.com/hoppscotch/hoppscotch",
+      "category": "UI 与开发工具",
+      "description_original": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "stars": 80632,
+      "updated_at": "2026-10-12T04:41:25Z",
+      "license": "MIT",
+      "homepage": "https://hoppscotch.io",
+      "language": "TypeScript"
+    },
+    {
+      "name": "career-ops-hq/career-ops",
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "category": "AI 与自动化",
+      "description_original": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+      "stars": 75141,
+      "updated_at": "2026-10-16T10:32:23Z",
+      "license": "MIT",
+      "homepage": "https://career-ops.org",
+      "language": "JavaScript"
+    }
+  ]
+}
