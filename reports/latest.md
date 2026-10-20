@@ -1,4 +1,4 @@
-# GitHub 软件发现清单 · 2026-10-16
+# GitHub 软件发现清单 · 2026-10-20
 
 > 自动采集的候选项目，不是人工验证或 AI 翻译结果。请勿将 Star 数视作安全、质量或商业授权证明。
 
@@ -8,7 +8,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/morluto/rea
 - 原始简介（可能是英文）：Reverse engineer anything with agents, from app behavior down to native binaries.
-- Star：281586；最近提交：2026-10-16T10:30:21Z
+- Star：342302；最近提交：2026-10-20T10:38:22Z
 - 主要语言：TypeScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -16,7 +16,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/affaan-m/ECC
 - 原始简介（可能是英文）：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- Star：280810；最近提交：2026-10-15T19:17:01Z
+- Star：284421；最近提交：2026-10-20T03:39:21Z
 - 主要语言：JavaScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -24,7 +24,7 @@
 - 类别：AI 与自动化
 - 项目链接：https://github.com/NousResearch/hermes-agent
 - 原始简介（可能是英文）：The agent that grows with you
-- Star：254279；最近提交：2026-10-16T10:29:47Z
+- Star：255411；最近提交：2026-10-20T10:42:46Z
 - 主要语言：Python；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -32,7 +32,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/DietrichGebert/ponytail
 - 原始简介（可能是英文）：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- Star：164803；最近提交：2026-10-16T08:17:57Z
+- Star：168586；最近提交：2026-10-18T01:55:14Z
 - 主要语言：JavaScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -40,7 +40,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/Graphify-Labs/graphify
 - 原始简介（可能是英文）：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
-- Star：127066；最近提交：2026-10-14T22:17:45Z
+- Star：129466；最近提交：2026-10-16T17:57:21Z
 - 主要语言：Python；许可证：Apache-2.0
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -48,7 +48,7 @@
 - 类别：AI 与自动化
 - 项目链接：https://github.com/Panniantong/Agent-Reach
 - 原始简介（可能是英文）：Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- Star：97951；最近提交：2026-10-15T11:34:42Z
+- Star：100034；最近提交：2026-10-20T09:11:41Z
 - 主要语言：Python；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -56,7 +56,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/puppeteer/puppeteer
 - 原始简介（可能是英文）：JavaScript API for Chrome and Firefox
-- Star：95704；最近提交：2026-10-16T09:07:04Z
+- Star：95730；最近提交：2026-10-20T10:43:25Z
 - 主要语言：TypeScript；许可证：Apache-2.0
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -64,7 +64,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/OpenHands/OpenHands
 - 原始简介（可能是英文）：🙌 OpenHands: AI-Driven Development
-- Star：91042；最近提交：2026-10-16T10:15:21Z
+- Star：91352；最近提交：2026-10-20T10:19:26Z
 - 主要语言：TypeScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -72,7 +72,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/tt-a1i/archify
 - 原始简介（可能是英文）：Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- Star：84270；最近提交：2026-10-16T10:09:07Z
+- Star：86087；最近提交：2026-10-20T10:00:51Z
 - 主要语言：JavaScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -80,7 +80,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/rtk-ai/rtk
 - 原始简介（可能是英文）：CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- Star：83578；最近提交：2026-10-16T07:47:33Z
+- Star：84031；最近提交：2026-10-20T00:07:16Z
 - 主要语言：Rust；许可证：Apache-2.0
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -88,7 +88,7 @@
 - 类别：UI 与开发工具
 - 项目链接：https://github.com/hoppscotch/hoppscotch
 - 原始简介（可能是英文）：Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- Star：80632；最近提交：2026-10-12T04:41:25Z
+- Star：80662；最近提交：2026-10-20T07:04:35Z
 - 主要语言：TypeScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
 
@@ -96,6 +96,6 @@
 - 类别：AI 与自动化
 - 项目链接：https://github.com/career-ops-hq/career-ops
 - 原始简介（可能是英文）：Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
-- Star：75141；最近提交：2026-10-16T10:32:23Z
+- Star：75743；最近提交：2026-10-20T10:45:00Z
 - 主要语言：JavaScript；许可证：MIT
 - 使用门槛/安全/适用性：**尚未审查，需中文简报进一步分析**。
